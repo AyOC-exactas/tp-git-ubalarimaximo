@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Maximo Ubalari.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta juegar juegos en linea.
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es ninguna.
